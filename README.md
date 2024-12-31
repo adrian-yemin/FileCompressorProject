@@ -1,0 +1,1 @@
+This project is a manual mimic of the bzip2 command and is able to compress text and image files to smaller sizes. It implements various encoding and compression methods such as the Burrows Wheeler transform, Huffman encoding, and more. 
